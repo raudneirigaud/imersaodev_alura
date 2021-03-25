@@ -6,5 +6,5 @@ Author: Raudnei
 
 HTML+CSS+JS
 
-![image-20210324215950444](\image-20210324215950444.png)
+![image-20210324215950444](https://github.com/raudneirigaud/imersaodev_alura/blob/main/AULA%202%20CALCULADORA%20E%20LACOS%20CONDICIONAIS%20NO%20JAVASCRIPT/imersaodev-_-aluraaula-2/image-20210324215950444.png?raw=true)
 
